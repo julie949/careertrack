@@ -1,0 +1,57 @@
+.ui.logo {
+height: 50%;
+width: 50%;
+}
+
+.column {
+margin-top: 3em;
+}
+
+.web_name {
+color: #1678c2;
+}
+
+.menu {
+border: 0px !important;
+}
+
+.ui.button {
+font-size: 1.2em;
+}
+i {
+text-decoration: none;
+}
+
+
+a {
+text-decoration: none !important;
+}
+
+a.item {
+font-size: 1.2em;
+}
+
+
+
+.transbg {
+background: url(picture/background_picture#1.jpg) no-repeat;
+}
+
+input[type="text"],
+ input[type="number"],
+  input[type="password"] {
+border-radius: 0px !important;
+border: none !important;
+border-bottom: 2px solid #1678c2 !important;
+}
+
+.ui.secondary.menu {
+border: none !important;
+}
+
+.horizontal_line {
+height: 3.5px;
+width: 100%;
+background: rgba(0, 0, 0, 0.4);
+}
+
